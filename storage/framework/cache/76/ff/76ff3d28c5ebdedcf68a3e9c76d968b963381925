@@ -1,4 +1,4 @@
-1520824604a:1:{s:10:"footer.htm";a:5:{s:8:"fileName";s:10:"footer.htm";s:7:"content";s:1403:"        <div class="container">
+1520826263a:1:{s:10:"footer.htm";a:5:{s:8:"fileName";s:10:"footer.htm";s:7:"content";s:1403:"        <div class="container">
             <div class="row">
                 <div class="col-sm-6">
                     &copy;  {{ "now"|date("Y") }} {{ this.theme.site_name }}. Designed by <a target="_blank" href="http://shapebootstrap.net/" title="Free Twitter Bootstrap WordPress Themes and HTML templates">ShapeBootstrap</a> &#123;&#123; Powered by <a href="http://octobercms.com/">OctoberCMS</a> &#125;&#125;
