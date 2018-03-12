@@ -1,0 +1,49 @@
+# ===================================
+#  Form Field Definitions
+# ===================================
+
+fields:
+    id:
+        label: ID
+        disabled: true
+    name:
+        label: Name
+        type: text
+        required: true
+    upper_title:
+        label: Upper caption
+        type: text
+    middle_title:
+        label: Middle caption
+        type: text
+    lower_title:
+        label: Lower caption
+        type: text
+    link_one:
+        label: First link (url)
+        type: text
+    link_two:
+        label: Second link (url)
+        type: text
+    link_one_text:
+        label: Link one text
+        type: text
+    link_two_text:
+        label: Link two text
+        type: text
+    image:
+        label: Image
+        type: fileupload
+        mode: image
+    background_size_mode:
+        label: Background size mode
+        type: dropdown
+        options:
+            cover: 'Cover'
+            contain: 'Contain'
+    background_position_x:
+        label: Background position (X-axis in percentages 0 - 100)
+        type: Number
+    background_position_y:
+        label: Background position (Y-axis in percentages 0 - 100)
+        type: Number
